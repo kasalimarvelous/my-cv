@@ -12,7 +12,7 @@ body {
             
             h2 {
                 color: chocolate;
-                text-decoration: underline
+                text-decoration: underline;
             }
             
             h3 {
@@ -23,21 +23,20 @@ body {
                 margin-top: -15px;
                 margin-bottom: 35px;
                 white-space: nowrap;
-                font-size: 19px
+                font-size: 19px;
             }
             
             a {
-                text-decoration: none
+                text-decoration: none;
             }
             
             .tel {
-                color: white
+                color: white;
             }
             
             p {
                 margin-top: -21px;
                 font-family: EB Garamond, system-ui;
-                font-weight: bold;
                 font-size: 21px;
             }
             
